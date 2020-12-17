@@ -1,0 +1,10 @@
+/* estilos del tema */
+.area{
+    padding: 140px;
+}
+.area h1, .area p{
+    font-weight: bold;
+}
+.mt100{
+    margin-top: 100px;
+}
